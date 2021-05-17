@@ -5560,7 +5560,7 @@ items:
             href: api/chat-teamsappinstallation-upgrade.md
           - name: Remove app from chat
             href: api/chat-delete-installedapps.md
-      - name: Activity feed
+      - name: Activity feed notification
         items:
         - name: Send notification to user in chat
           href: api/chat-sendactivitynotification.md

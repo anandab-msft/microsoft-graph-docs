@@ -10,7 +10,7 @@ doc_type: apiPageType
 # team: sendActivityNotification
 Namespace: microsoft.graph
 
-Send an activity feed notification in the scope of a team. For more details about sending notifications and the requirements for doing so, see
+>**Note**: Send an activity feed notification in the scope of a team. For more details about sending notifications and the requirements for doing so, see
 [sending Teams activity notifications](/graph/teams-send-activityfeednotifications).
 
 ## Permissions
